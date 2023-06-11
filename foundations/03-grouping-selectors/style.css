@@ -1,0 +1,14 @@
+.old,
+.fancy {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.old {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.fancy {
+    background-color: rgb(197, 252, 0);
+}
